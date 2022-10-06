@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "6eeb07d0311df1dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5b143d4a71ce713",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "--ZZ Rotas.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "73af974029ebef12",
+    "type": "split",
+    "children": [
+      {
+        "id": "660d2255d943d676",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8f3148a53be9327",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b50c7255a3654276",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c528b4adae8dffea",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "dad45a7fdf91b5e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f89a47048b54fcd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "95818ad398335972",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "--ZZ Rotas.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "21105e0144468b60",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "--ZZ Rotas.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "526ca062a1bcc0bb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "41e6446e57fbf0f9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "--ZZ Rotas.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c5b143d4a71ce713",
+  "lastOpenFiles": [
+    "--Arrow Functions.md",
+    "Switch...Case.md",
+    "JavaScript.md",
+    "IF...Else.md",
+    "2022-10-03.md",
+    "-SASS.md",
+    "** Formatar documento em Markdown.md",
+    "For.md",
+    "--ZZ APIs e código assíncrono.md",
+    "--HTML Semântico.md"
+  ]
+}
