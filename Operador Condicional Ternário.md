@@ -1,4 +1,9 @@
-#JavaScript #React #if #elseif #else #DOM 
+[[JavaScript]]
+[[React]]
+[[IF...Else]]
+[[--DOM]]
+[[ReactDOM]]
+
 
 O operador condicional (ternário) é o único operador `JavaScript` que possui três operandos. Este operador é frequentemente usado como um atalho para a instrução `if`.
 

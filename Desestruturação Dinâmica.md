@@ -1,4 +1,9 @@
-[[--React]] [[JavaScript]] [[Atualizar Estado em React]] [[--Objeto]]
+[[React]]
+[[JavaScript]]
+[[Atualizar Estado em React]] 
+[[Objeto]]
+
+
 Desestruturação Dinâmica é um facilitador para acessar propriedades de forma dinâmica dentro de uma desestruturação.
 
 Primeiramente, vale ressaltar o que é desestruturação de objetos em JavaScript. Para isso, considere o exemplo abaixo:

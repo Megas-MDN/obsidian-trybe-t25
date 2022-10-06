@@ -1,7 +1,6 @@
-#if #elseif #else #JavaScript #DOM #React #Ternário
 [[IF...Else]]
 [[JavaScript]]
-[[DOM]]
+[[--DOM]]
 [[Operador Condicional Ternário]]
 
 

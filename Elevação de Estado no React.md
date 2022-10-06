@@ -1,4 +1,4 @@
-[[--React]] [[--ZZ Componentes]] [[Props]] [[Estado]] [[--React]]
+ [[Componentes]] [[Props]] [[State]] [[React]]
 
 Com frequência, a modificação de um dado tem que ser refletida em vários componentes. Recomendamos elevar o state compartilhado ao elemento pai comum mais próximo. Vamos ver como isso funciona na prática. Nessa seção, criaremos uma calculadora de temperatura que calcula se a água ferveria em determinada temperatura.
 

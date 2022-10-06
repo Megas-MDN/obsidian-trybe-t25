@@ -1,4 +1,8 @@
-#JavaScript #DOM #React 
+[[JavaScript]]
+[[--DOM]]
+[[React]]
+[[IF...Else]]
+
 
 Similar a o `if/else`, dentro do `switch`, o que deve ser analisado, e as condicionais vão dentro do `case`.
 
@@ -47,3 +51,4 @@ switch (mes) {
 }
 console.log(estacaoDoAno); // 'Outono'
 ```
+

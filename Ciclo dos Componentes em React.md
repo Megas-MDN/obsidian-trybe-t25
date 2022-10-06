@@ -1,1 +1,5 @@
-[[--React]] [[Dom]] [[--ZZ Componentes]] [[Props]] [[Estado]]
+[[React]]
+[[--DOM]]
+[[Componentes]]
+[[Props]]
+[[State]]

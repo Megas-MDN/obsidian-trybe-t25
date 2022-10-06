@@ -1,5 +1,12 @@
-[[--React]] [[Estado]] [[Arrow Functions]] [[Desestruturação Dinâmica]] [[DOM]] [[Operador Condicional Ternário]]
-Para atualizar/salvar no [[DOM]] um estado você precisa criar uma função que comece com a palavra ***`handle`***.
+[[React]]
+[[Estado]]
+[[Arrow Functions]]
+[[Desestruturação Dinâmica]]
+[[--DOM]]
+[[Operador Condicional Ternário]]
+
+
+Para atualizar/salvar no [[--DOM]] um estado você precisa criar uma função que comece com a palavra ***`handle`***.
 
 ## EX:
 
@@ -45,7 +52,7 @@ Desta forma o elemento `[name]` vai ser igual a `key` que for clicada e o `value
 
 Se o input e o campo tiver nomes diferentes será criado um campo dinâmico e o imput não terá o valor atualizado.
 
-Como os valores neste momento estão sendo salvos no [[DOM]], uma boa prática é atribuir este valor na propriedade `value` no seu formulário. Este processo tem o nome de componente controlado, pois desta forma o [[--React]] está controlando este campo e ele ficará responsável por atualizar a informação deste campo.
+Como os valores neste momento estão sendo salvos no [[--DOM]], uma boa prática é atribuir este valor na propriedade `value` no seu formulário. Este processo tem o nome de componente controlado, pois desta forma o [[--React]] está controlando este campo e ele ficará responsável por atualizar a informação deste campo.
 
 ```JavaScript React
 handleInputChange = (event) => {
