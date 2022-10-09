@@ -134,7 +134,7 @@ import React from 'react';
 36export default App;
 ```
 
-💡 _Se você quisesse chamar, no elemento, um evento passando um parâmetro, você deveria trocar a sintaxe `<button onClick{this.minhaFuncao} ...>` por `<button onClick={() => this.minhaFuncao('meu parametro')}`. Basicamente, substitua a função do evento por uma chamada à mesma feita via callback!
+💡 _Se você quisesse chamar, no elemento, um evento passando um parâmetro, você deveria trocar a sintaxe `<button onClick{this.minhaFuncao} ...>` por `<button onClick={() => this.minhaFuncao('meu parametro')}`. Basicamente, substitua a função do evento por uma chamada à mesma feita via [[callback]]!
 
 
 ## State vs Props

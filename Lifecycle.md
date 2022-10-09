@@ -1,6 +1,6 @@
 [[React]]
-[[--ZZ Fetch API]]
-[[--ZZ APIs e código assíncrono]]
+[[Fetch API]]
+[[API]]
 [[--DOM]]
 [[ReactDOM]]
 
