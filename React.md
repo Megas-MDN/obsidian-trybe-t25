@@ -1,5 +1,5 @@
 [[JavaScript]]
-[[--DOM]]
+[[DOM]]
 [[--HTML e CSS]]
 
 O `React` é uma biblioteca `JavaScript` criada pelo Facebook para o desenvolvimento de aplicações front-end. Ele é baseado em componentes, o que permite o reaproveitamento de código e facilita a manutenção. No padrão de arquitetura MVC — Model View Control — ou Modelo Visão Controle, em português, ele é comparado ao desenvolvimento da camada View, que é a interface com o usuário (UI).

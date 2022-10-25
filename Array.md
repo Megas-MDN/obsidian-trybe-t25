@@ -1,8 +1,8 @@
 [[JavaScript]]
-[[--forEach]]
+[[forEach]]
 [[For...Of]]
-[[--MAP]]
-[[--Filter]]
+[[MAP]]
+[[Filter]]
 
 
 

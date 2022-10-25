@@ -1,6 +1,6 @@
 [[React]]
 [[Componentes]]
-[[--Eventos via DOM]]
+[[Eventos via DOM]]
 [[Props]]
 
 

@@ -1,7 +1,7 @@
 [[React]]
 [[Objeto]]
 [[State]]
-[[--Eventos via DOM]]
+[[Eventos via DOM]]
 [[Bind]]
 
 

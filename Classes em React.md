@@ -1,5 +1,5 @@
 [[React]]
-[[--Classes]]
+[[Classes]]
 
 Você pode pensar que uma classe e uma função são exatamente a mesma coisa, afinal, ambas recebem atributos, e nós as chamamos em seguida. Porém, uma classe pode possuir `métodos`, que nada mais são do que ações que toda entidade criada a partir de uma classe pode realizar.
 

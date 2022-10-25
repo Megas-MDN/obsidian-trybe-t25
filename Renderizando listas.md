@@ -1,5 +1,5 @@
 [[React]]
-[[--MAP]]
+[[MAP]]
 [[Array]]
 
 Suponha que você precise implementar um componente que renderiza uma lista de compras. Entretanto, você não sabe de antemão os elementos desta lista. Como você renderizaria dinamicamente esta lista de compras?

@@ -1,5 +1,5 @@
 [[React]]
-[[--DOM]]
+[[DOM]]
 
 **O ReactDOM é o responsável por renderizar e atualizar seu código dentro do HTML, exibindo seus elementos React.**
 

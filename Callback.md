@@ -1,8 +1,8 @@
-[[--Funções]]
-[[--Arrow Functions]]
+[[Arrow Functions]]
+[[Funções]]
 
 
-De forma resumida, **`callback` é uma função passada como parâmetro para outra função**. Um exemplo de `função callback` é quando chamamos a função `setTimeout`, essa função recebe dois parâmetros: o primeiro é a `função callback`, que passamos por meio de uma `arrow function`; e o segundo é o tempo (em milissegundos) que o interpretador irá esperar para executar a função. Observe a estrutura dela:
+**`Callback` é uma função passada como parâmetro para outra função**. Um exemplo de `função callback` é quando chamamos a função `setTimeout`, essa função recebe dois parâmetros: o primeiro é a `função callback`, que passamos por meio de uma `arrow function`; e o segundo é o tempo (em milissegundos) que o interpretador irá esperar para executar a função. Observe a estrutura dela:
 
 ```js
 setTimeout(1parametro, 2parametro);
@@ -17,7 +17,7 @@ setTimeout(() => {}, 2000);
 
 Agora, veremos um exemplo prático de como podemos utilizar `funções callback`. Copie e analise com calma cada trecho da implementação do código, se necessário, volte na explicação para que a implementação seja bem compreendida!
 
-```js
+```jsx
 // despesas.js
 
 const minhasDespesas = [

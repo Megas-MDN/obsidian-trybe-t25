@@ -1,11 +1,12 @@
 #markdown #GitHub
 
 # Titulo -> "#"
-## Titulo 1 -> "##"
-### Titulo 2 -> "###"
-#### Titulo 3 -> "####"
-##### Titulo 4 -> "#####"
-###### Titulo 5 -> "######"
+## Titulo 2 -> "##"
+### Titulo 3 -> "###"
+#### Titulo 4 -> "####"
+##### Titulo 5 -> "#####"
+###### Titulo 6 -> "######"
+
 
 ---------------------------------------------------------------------------
 # Negrito, Itálico e Tachado
@@ -87,7 +88,7 @@ Imagem internet: ![title](link_da_imagem.png)
 Imagem Local: ![title](Images/example.png)
 ```
 
-![Google](Imagens/googlelogo.png)
+![Google](googlelogo.png)
 
 ------------------------------------------------
 # Texto como código

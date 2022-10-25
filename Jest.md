@@ -1,4 +1,4 @@
-[[--Testes com Jest]]
+[[Testes com Jest]]
 [[Setup e Teardown]]
 [[Teste Assincrono]]
 

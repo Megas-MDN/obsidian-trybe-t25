@@ -1,6 +1,6 @@
 [[Objeto]]
 
-O método Object.values() retorna um array com os valores das propriedades de um dado objeto, na mesma ordem provida pelo [[--For...In]] laço (sendo a diferença que o laço for-in também enumera as propriedades na cadeia prototype).
+O método Object.values() retorna um array com os valores das propriedades de um dado objeto, na mesma ordem provida pelo [[For...In]] laço (sendo a diferença que o laço for-in também enumera as propriedades na cadeia prototype).
 
 ### Sintaxe
 

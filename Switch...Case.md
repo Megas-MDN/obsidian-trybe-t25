@@ -1,5 +1,5 @@
 [[JavaScript]]
-[[--DOM]]
+[[DOM]]
 [[React]]
 [[IF...Else]]
 

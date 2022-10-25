@@ -1,7 +1,7 @@
 [[React]]
 [[Fetch API]]
 [[API]]
-[[--DOM]]
+[[DOM]]
 [[ReactDOM]]
 
 

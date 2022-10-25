@@ -1,6 +1,6 @@
 [[JavaScript]]
-[[--HOF's]]
-[[--For...In]]
+[[HOF's]]
+[[For...In]]
 [[React]]
 
 Objetos em JavaScript, assim como em muitas outras linguagens de programação, podem ser comparados com objetos na vida real. O conceito de objetos em JavaScript pode ser entendido com objetos tangíveis da vida real.

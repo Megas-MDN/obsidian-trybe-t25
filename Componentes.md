@@ -1,7 +1,7 @@
 [[React]]
 [[Classes em React]]
 
-Componentes são a base de toda aplicação **React**. Eles nos permitem segmentar uma página web em blocos de códigos independentes e **reutilizáveis**, além de tornarem o ambiente de desenvolvimento um local mais organizado. Conceitualmente, componentes **React** são **[[--Funções]]** ou **[[--Classes]]** JavaScript que podem aceitar parâmetros, chamados de [[Props]] (do inglês _properties_), os quais retornam elementos React responsáveis por determinarem o que será renderizado na tela.
+Componentes são a base de toda aplicação **React**. Eles nos permitem segmentar uma página web em blocos de códigos independentes e **reutilizáveis**, além de tornarem o ambiente de desenvolvimento um local mais organizado. Conceitualmente, componentes **React** são **[[Funções]]** ou **[[Classes]]** JavaScript que podem aceitar parâmetros, chamados de [[Props]] (do inglês _properties_), os quais retornam elementos React responsáveis por determinarem o que será renderizado na tela.
 
 Existem duas maneiras de definirmos um componente:
 -   com um **Componente de função**

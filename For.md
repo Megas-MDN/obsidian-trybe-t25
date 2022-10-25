@@ -1,9 +1,9 @@
 [[For...Of]]
-[[--For...In]]
-[[--forEach]]
+[[For...In]]
+[[forEach]]
 [[JavaScript]]
-[[--HOF's]]
-[[--Funções]]
+[[HOF's]]
+[[Funções]]
 
 
 

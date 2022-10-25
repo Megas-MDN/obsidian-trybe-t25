@@ -1,6 +1,6 @@
 [[IF...Else]]
 [[JavaScript]]
-[[--DOM]]
+[[DOM]]
 [[Operador Condicional Ternário]]
 
 
