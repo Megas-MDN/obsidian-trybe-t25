@@ -1,5 +1,5 @@
 [[JavaScript]]
-[[--HTML 5]]
+[[HTML]]
 
 ## O DOM. Ou: como o _HTML_ e o _JavaScript_ se comunicam?
 

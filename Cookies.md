@@ -1,4 +1,4 @@
-[[--HTML 5]]
+[[HTML]]
 [[JavaScript]]
 
 **Cookies** são dados salvos em pequenos arquivos de texto no computador da pessoa que utiliza a _Internet_.

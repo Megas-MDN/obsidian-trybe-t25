@@ -1,6 +1,6 @@
 [[JavaScript]]
 [[React]]
-[[--HTML 5]]
+[[HTML]]
 
 A API chamada Web Storage provê dois mecanismos básicos para se guardar informações no browser do usuário: sessionStorage e localStorage. O sessionStorage (que não vamos ver nesse artigo), funciona muito parecido com o localStorage, mas com uma diferença: ele mantém o dado gravado apenas até o término da sessão do usuário, ou seja, até o browser do usuário se fechar incluindo reloads da página ou restores. Já o localStorage mantém o dado gravado mesmo se o browser é fechado e reaberto. Isso facilita criar alguns comportamentos de interface durante o uso do usuário. E obviamente, nem preciso dizer, que não serve para gravar dados sensíveis.
 

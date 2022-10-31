@@ -1,5 +1,5 @@
 [[React]]
-[[--HTML 5]]
+[[HTML]]
 [[--Formulario em HTML]]
 [[Componentes]]
 
