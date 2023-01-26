@@ -1,4 +1,4 @@
-[[Soft Skills]]
+[[1.1 - Soft Skills]]
 
 
 Empatia é a capacidade de entender os sentimentos e pontos de vista das outras pessoas, e sentir o que elas precisam de nós. Há três modalidades de empatia:

@@ -9,7 +9,7 @@ dispatch({type: 'INCREMENT_COUNTER'});
 ```
 
 `Dispatch` é uma função do Redux. Você chama `store.dispatch` para despachar uma ação. Esta é a única maneira de acionar uma mudança de estado. 
-Com o React Redux, seus componentes nunca acessam a loja diretamente - `connect` faça isso por você. O React Redux oferece duas maneiras de permitir que os componentes despachem ações:
+Com o React Redux, seus componentes nunca acessam a store diretamente - `connect` faça isso por você. O React Redux oferece duas maneiras de permitir que os componentes despachem ações:
 
 -   Por padrão, um componente conectado recebe `props.dispatch` e pode despachar ações por conta própria.
 -   `connect` pode aceitar um argumento chamado `mapDispatchToProps`, que permite criar funções que despacham quando chamadas e passam essas funções como props para seu componente.

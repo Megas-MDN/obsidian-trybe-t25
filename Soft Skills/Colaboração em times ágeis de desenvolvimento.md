@@ -1,4 +1,4 @@
-[[Soft Skills]]
+[[1.1 - Soft Skills]]
 
 Codar é um trabalho colaborativo. Codar é um trabalho colaborativo. Codar é um trabalho colaborativo. Sim, nós vamos repetir essa máxima até o final do curso sempre que possível. E também usaremos gifs hipnóticos, porque toda ajuda é bem-vinda, não é?
 

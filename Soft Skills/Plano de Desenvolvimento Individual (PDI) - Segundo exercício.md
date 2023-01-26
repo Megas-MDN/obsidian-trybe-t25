@@ -1,4 +1,4 @@
-[[Soft Skills]]
+[[1.1 - Soft Skills]]
 
 Durante o Módulo de Fundamentos, nós trabalhamos com a ferramenta do Plano de Desenvolvimento Individual (PDI).
 

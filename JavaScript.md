@@ -1,5 +1,4 @@
 [[React]]
-[[--HTML e CSS]]
 [[DOM]]
 
 Javascript é a linguagem mais popular da programação, segundo o estudo do site StackOverFlow. E, desde 2013, a linguagem criada pelo programador Brendan Eich há duas décadas se mantém no topo do ranking.

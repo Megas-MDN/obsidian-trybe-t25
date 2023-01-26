@@ -1,4 +1,4 @@
-[[Soft Skills]]
+[[1.1 - Soft Skills]]
 
 Receber feedbacks é um aprendizado. E sem este aprendizado, dificilmente vamos conseguir progredir nas nossas carreiras e mesmo nas nossas vidas, de modo mais geral. O olhar das outras pessoas, que por vezes nos incomoda, é fundamental para a descoberta de quem somos, queremos e podemos ser:
 

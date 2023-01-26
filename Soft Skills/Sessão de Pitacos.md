@@ -1,4 +1,4 @@
-[[Soft Skills]]
+[[1.1 - Soft Skills]]
 
 Ed Catmull é o presidente da Pixar e Walt Disney Animation Studios, duas empresas para as quais a criatividade, transformada em inovação, é fundamental. É preciso redescobrir constantemente o modo de contar histórias e apresentar graficamente personagens. No livro “Criatividade S.A”, Catmull conta a trajetória de sucesso de um dos mais importantes e lucrativos estúdios de animação da atualidade, a Pixar, que ele ajudou a fundar em 1986.
 

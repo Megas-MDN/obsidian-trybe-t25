@@ -1,4 +1,4 @@
-[[Soft Skills]]
+[[1.1 - Soft Skills]]
 
 A negociação é um processo de comunicação interativo, que pode ocorrer sempre que queremos algo de alguém, ou quando alguma outra pessoa quiser algo de nós¹.
 

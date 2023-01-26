@@ -1,4 +1,4 @@
-[[Soft Skills]]
+[[1.1 - Soft Skills]]
 
 
 Talento é a habilidade de constantemente produzir um resultado perfeito em uma determinada tarefa a partir de um certo padrão recorrente de pensamento, sentimento ou comportamento. O Talento é a base que garante a excelência nas atividades que desempenhamos.

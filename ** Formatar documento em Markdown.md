@@ -121,9 +121,14 @@ Texto   | Texto
 Texto   | Texto
 
 
+# HTML
 
+Uma das tags mais comuns é a `<a>`, que é usada para criar links. Por exemplo, você pode usar [este texto](https://www.exemplo.com/) para criar um link para o site exemplo.com.
 
+Outra tag comum é a `<img>`, que é usada para adicionar imagens. Por exemplo, você pode usar ![texto alternativo](https://www.exemplo.com/imagem.jpg) para adicionar uma imagem ao seu post.
 
+A tag `<code>` também é suportada e é usada para destacar trechos de código. Por exemplo, você pode usar `<code>` para destacar um pedaço de código em seu post.
 
+A tag `<blockquote>` é usada para criar citações e pode ser usada adicionando `>` antes do texto. Por exemplo, você pode usar `> Citação interessante` para criar uma citação no seu post.
 
-
+A tag `<br>` é usada para criar quebra de linha e `<hr>` é usada para criar linhas horizontais.

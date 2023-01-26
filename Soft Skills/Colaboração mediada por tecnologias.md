@@ -1,4 +1,4 @@
-[[Soft Skills]]
+[[1.1 - Soft Skills]]
 
 ## Tecnologia não resolve problemas de colaboração (mas pode nos ajudar a colaborar)
 

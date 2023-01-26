@@ -1,4 +1,5 @@
 [[Objeto]]
+[[Array]]
 
 O método Object.keys() retorna um array de propriedades enumeraveis de um determinado objeto, na mesma ordem em que é fornecida por um laço [[For...In]] (a diferença é que um laço for-in enumera propriedades que estejam na cadeia de protótipos).
 

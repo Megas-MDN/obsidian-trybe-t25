@@ -1,4 +1,4 @@
-[[Soft Skills]]
+[[1.1 - Soft Skills]]
 
 A resiliência é a capacidade de superar ou se recuperar de situações difíceis, lidar com perdas e frustrações, adaptar-se às mudanças e retomar a capacidade de agir e de se relacionar com as pessoas.
 
