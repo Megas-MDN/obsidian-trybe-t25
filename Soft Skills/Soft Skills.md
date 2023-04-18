@@ -24,9 +24,21 @@ Concluindo: desenvolver as habilidades sociais de Estudantes da Trybe é um elem
 
 ## Quais são as soft skills que vamos trabalhar?
 
+As soft skills que você irá exercitar ao longo da sua jornada de estudos da Trybe foi definida a partir de uma pesquisa realizada com mais de 100 empresas, para entender o que elas buscam no momento de contratar alguém para uma posição na área de tecnologia. As competências que fazem parte da Jornada de soft skills são:
 
-![[Pasted image 20221104222325.png]]
+-   🧠 Aprender a aprender - trabalhada de forma transversal;
+-   💞inteligência emocional;
+-   💬 comunicação;
+-   👋 colaboração;
+-   🔧 pensamento crítico;
+-   👯 criatividade;
+-   📈 liderança.
 
+Para cada uma das competências listadas acima temos temas que serão trabalhados em momentos iniciais síncronos e assíncronos. A imagem a seguir mostra os principais temas que serão trabalhados em cada uma das competências de nossa matriz.
+
+![matriz](https://content-assets.betrybe.com/prod/49a8a50b-84e8-4f45-9225-f8fd95e5bf96-matriz.jpg)
+
+Marcar lição como concluída
 
 
 #### Referências
